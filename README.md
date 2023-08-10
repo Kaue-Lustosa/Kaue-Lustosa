@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Kaue-Lustosa
-- 👀 I’m interested in learning new stuff
-- 🌱 I’m currently learning C
+- 👀 I’m interested in cybersecurity
+- 🌱 I’m currently learning FMC
 - 💞️ I’m looking to collaborate on Data projects
 - 📫 How to reach me? Email: kauelustosamorgado@gmail.com; Instagram: kaue_lustosa
