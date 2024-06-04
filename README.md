@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width=92.5% bottom=50px src="https://github.com/Kaue-Lustosa/Kaue-Lustosaa/assets/85201389/3b174356-d1f9-4ac9-8e4a-faffcc59232a"/>
+<img width=100% bottom=50px src="https://github.com/Kaue-Lustosa/Kaue-Lustosaa/assets/85201389/3b174356-d1f9-4ac9-8e4a-faffcc59232a"/>
 
 </div>
 <br>
