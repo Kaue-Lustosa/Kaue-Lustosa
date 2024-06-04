@@ -33,7 +33,7 @@
 <br>
 
 
-### Main skills:
+### Main languages:
 <div align="left"> 
   
 <img align="left" height="84" width="84" src="https://github.com/Kaue-Lustosa/Kaue-Lustosa/assets/85201389/2752cd7e-0d1d-4db5-93eb-e948a991bcaa">
