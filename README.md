@@ -75,6 +75,19 @@
 </div>
 
 <div align="center">
+  
+<br>
+<br>
+<br>
+<br>
+
+<p align="centre"><b>Visitors Count</b></p> 
+  
+<p align="center"><img src="https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2FKaue-Lustosa&s=50&c=7d968b&bg=00000000&no=4&ff=alien&tb=Visits%3A++&ta=" alt="visits"></p> 
+<br>
+</div>
+
+<div align="center">
 
 <img width=100% bottom=50px src="https://capsule-render.vercel.app/api?type=waving&height=200&color=c1e7e1&reversal=false&section=footer"/>
 
