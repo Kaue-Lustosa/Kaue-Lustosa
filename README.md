@@ -27,6 +27,10 @@
 <img align="center"  height="80" width="80" src="https://github.com/Kaue-Lustosa/Kaue-Lustosa/assets/85201389/6697ea1f-bdc3-4b69-9a6a-f6502d2cc076">
 </a>
 
+<a  href="https://open.spotify.com/user/31lbg6aum6gopuj4i5inmwvpwkae" target=_blank>
+<img align="center"  height="80" width="80" src="https://github.com/Kaue-Lustosa/Kaue-Lustosa/assets/85201389/62e01bd1-cbd1-494c-8e77-c0e0f3a9601f">
+</a>
+
 </div>
 
 <br>
