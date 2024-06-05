@@ -1,5 +1,3 @@
-<div align="center">
-
 <img width=100% bottom=50px src="https://github.com/Kaue-Lustosa/Kaue-Lustosa/assets/85201389/f4723dea-e519-4bec-a00a-8e1c1e6a2f73"/>
 
 </div>
@@ -37,18 +35,22 @@
 
 <h2 align="left"> Main languages: </h2>
 <div align="left"> 
+
+<img align="left" height="80" width="80" src="https://github.com/Kaue-Lustosa/Kaue-Lustosa/assets/85201389/c5e4f14c-d788-4769-b795-3502e4e9010f">
+
+<img align="left" height="80" width="80" src="https://github.com/Kaue-Lustosa/Kaue-Lustosa/assets/85201389/75274ee5-4393-4045-b4d5-3dc28e797256">
   
-<img align="left" height="84" width="84" src="https://github.com/Kaue-Lustosa/Kaue-Lustosa/assets/85201389/2752cd7e-0d1d-4db5-93eb-e948a991bcaa">
+<img align="left" height="80" width="80" src="https://github.com/Kaue-Lustosa/Kaue-Lustosa/assets/85201389/27996961-406f-494d-ab10-388cab073cdb">
 
-<img align="left" height="80" width="80" src="https://github.com/Kaue-Lustosa/Kaue-Lustosa/assets/85201389/db5b878a-5ed3-4ba8-bd8f-4512c0fddb5f">
-
+<img align="left" height="80" width="80" src="https://github.com/Kaue-Lustosa/Kaue-Lustosa/assets/85201389/73632c44-e1d2-4d16-a981-bc922158819c">
+ 
 <img align="left" height="80" width="80" src="https://github.com/Kaue-Lustosa/Kaue-Lustosa/assets/85201389/1be4d4b5-aeb6-4917-83db-282e929a8dff">
 
 <img align="left" height="80" width="80" src="https://github.com/Kaue-Lustosa/Kaue-Lustosa/assets/85201389/c33aca4c-2c8b-4692-a35b-0ffdc399f6ca">
 
 <img align="left" height="75" width="75" src="https://github.com/Kaue-Lustosa/Kaue-Lustosa/assets/85201389/b4fb985c-fabf-45cd-a2f7-4ef12244fb64">
 
-<img align="left" height="75" width="75" src="https://github.com/Kaue-Lustosa/Kaue-Lustosa/assets/85201389/23136b6d-6918-4b64-8413-7cd04048383e">
+<img align="left" height="80" width="80" src="https://github.com/Kaue-Lustosa/Kaue-Lustosa/assets/85201389/23136b6d-6918-4b64-8413-7cd04048383e">
 
 </div>
 
@@ -61,7 +63,7 @@
 
 <div align="left"> 
 
-<img align="left" height="80" width="80" src="https://github.com/Kaue-Lustosa/Kaue-Lustosa/assets/85201389/db5b878a-5ed3-4ba8-bd8f-4512c0fddb5f">
+<img align="left" height="80" width="80" src="https://github.com/Kaue-Lustosa/Kaue-Lustosa/assets/85201389/73632c44-e1d2-4d16-a981-bc922158819c">
 
 <img align="left" height="75" width="75" src="https://github.com/Kaue-Lustosa/Kaue-Lustosa/assets/85201389/b4fb985c-fabf-45cd-a2f7-4ef12244fb64">
 
