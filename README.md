@@ -97,6 +97,8 @@ hobbies: ["Gaming", "Music", "Indoors Climbing", "IoT"]
 <br>
 <br>
 
+<!-- img align="right" height="415px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kaue-Lustosa&langs_count=8&theme=dark&hide_border=true" -->
+
 <div align="center">
   
 <br>
