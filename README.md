@@ -35,8 +35,7 @@
 <br>
 <br>
 
-
-### Main languages:
+<h2 align="left"> Main languages: </h2>
 <div align="left"> 
   
 <img align="left" height="84" width="84" src="https://github.com/Kaue-Lustosa/Kaue-Lustosa/assets/85201389/2752cd7e-0d1d-4db5-93eb-e948a991bcaa">
@@ -54,13 +53,11 @@
 </div>
 
 <br>
-<br> 
-<br>
 <br>
 <br>
 <br>
 
-<h2 align="left"> Studying in this moment: </h2>
+<h2 align="left"> Currently learning: </h2>
 
 <div align="left"> 
 
@@ -68,24 +65,49 @@
 
 <img align="left" height="75" width="75" src="https://github.com/Kaue-Lustosa/Kaue-Lustosa/assets/85201389/b4fb985c-fabf-45cd-a2f7-4ef12244fb64">
 
-<img align="left" height="75" width="75" src="https://github.com/Kaue-Lustosa/Kaue-Lustosa/assets/85201389/23136b6d-6918-4b64-8413-7cd04048383e">
+<img align="left" height="80" width="80" src="https://github.com/Kaue-Lustosa/Kaue-Lustosa/assets/85201389/23136b6d-6918-4b64-8413-7cd04048383e">
 
-<img align="left" height="75" width="75" src="https://github.com/Kaue-Lustosa/Kaue-Lustosa/assets/85201389/747e2860-1cd8-4084-afea-c739cff8579b">
+<img align="left" height="80" width="80" src="https://github.com/Kaue-Lustosa/Kaue-Lustosa/assets/85201389/747e2860-1cd8-4084-afea-c739cff8579b">
+
+<img align="left" height="80" width="80" src="https://github.com/Kaue-Lustosa/Kaue-Lustosa/assets/85201389/3218c3bf-a261-4778-9212-d5a8f1f67956">
 
 </div>
 
+<br>
+<br>
+<br>
+<br>
+
+
+<h2 align="left"> More about me: </h2>
+
+```yaml
+name: Kauê Lustosa Morgado
+located_in: Rio Grande do Norte, Brazil
+from: Brasília (Brazil)
+education: ["Finishing my Bachelor's in IT this year"]
+past experiences: 
+  - ["Geoprocessing scholar", "Google Earth Engine coding", "Câmara Cascudo's Museum", "Brazil", "2022-2023"]
+fields_of_interests: ["IT Management", "Security of Information", "Cybersecurity", "Internet of Things"]
+technical_background: ["Data Processing", "Project Management"]
+hobbies: ["Gaming", "Music", "Indoors Climbing", "IoT"]
+```
+<br>
+<br>
+
 <div align="center">
   
-<br>
-<br>
 <br>
 <br>
 
 <p align="centre"><b>Visitors Count</b></p> 
   
 <p align="center"><img src="https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2FKaue-Lustosa&s=50&c=7d968b&bg=00000000&no=4&ff=alien&tb=Visits%3A++&ta=" alt="visits"></p> 
-<br>
+
 </div>
+
+<br>
+<br>
 
 <div align="center">
 
