@@ -1,6 +1,9 @@
 <img width=100% bottom=50px src="https://github.com/Kaue-Lustosa/Kaue-Lustosa/assets/85201389/f4723dea-e519-4bec-a00a-8e1c1e6a2f73"/>
 
 </div>
+
+<br>
+<br>
 <br>
 <br> 
 
