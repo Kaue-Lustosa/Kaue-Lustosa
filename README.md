@@ -105,10 +105,12 @@ hobbies: ["Gaming", "Music", "Indoors Climbing", "IoT"]
 <br>
 <br>
 
-<!-- img align="right" height="415px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kaue-Lustosa&langs_count=8&theme=dark&hide_border=true" -->
-
 <div align="center">
+
+<img width=100% bottom=50px height="415px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kaue-Lustosa&langs_count=8&theme=dark&hide_border=true&layout=compact">
   
+<br>
+<br>
 <br>
 <br>
 
