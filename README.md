@@ -20,6 +20,13 @@
 <br>
 <br>
 
+<img align="center" height="250px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kaue-Lustosa&langs_count=8&theme=dark&hide_border=true&layout=compact">
+
+<br>
+<br>
+<br>
+<br>
+
 </div>
 
 <div align="center"> 
@@ -41,7 +48,7 @@
 <br>
 <br>
 
-<h2 align="left"> Main languages: </h2>
+<h2 align="left">  Languages: </h2>
 <div align="left"> 
 
 <img align="left" height="80" width="80" src="https://github.com/Kaue-Lustosa/Kaue-Lustosa/assets/85201389/c5e4f14c-d788-4769-b795-3502e4e9010f">
@@ -59,27 +66,6 @@
 <img align="left" height="75" width="75" src="https://github.com/Kaue-Lustosa/Kaue-Lustosa/assets/85201389/b4fb985c-fabf-45cd-a2f7-4ef12244fb64">
 
 <img align="left" height="80" width="80" src="https://github.com/Kaue-Lustosa/Kaue-Lustosa/assets/85201389/23136b6d-6918-4b64-8413-7cd04048383e">
-
-</div>
-
-<br>
-<br>
-<br>
-<br>
-
-<h2 align="left"> Currently learning: </h2>
-
-<div align="left"> 
-
-<img align="left" height="80" width="80" src="https://github.com/Kaue-Lustosa/Kaue-Lustosa/assets/85201389/73632c44-e1d2-4d16-a981-bc922158819c">
-
-<img align="left" height="75" width="75" src="https://github.com/Kaue-Lustosa/Kaue-Lustosa/assets/85201389/b4fb985c-fabf-45cd-a2f7-4ef12244fb64">
-
-<img align="left" height="80" width="80" src="https://github.com/Kaue-Lustosa/Kaue-Lustosa/assets/85201389/23136b6d-6918-4b64-8413-7cd04048383e">
-
-<img align="left" height="80" width="80" src="https://github.com/Kaue-Lustosa/Kaue-Lustosa/assets/85201389/747e2860-1cd8-4084-afea-c739cff8579b">
-
-<img align="left" height="80" width="80" src="https://github.com/Kaue-Lustosa/Kaue-Lustosa/assets/85201389/3218c3bf-a261-4778-9212-d5a8f1f67956">
 
 </div>
 
@@ -107,10 +93,6 @@ hobbies: ["Gaming", "Music", "Indoors Climbing", "IoT"]
 
 <div align="center">
 
-<img width=100% bottom=50px height="415px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kaue-Lustosa&langs_count=8&theme=dark&hide_border=true&layout=compact">
-  
-<br>
-<br>
 <br>
 <br>
 
