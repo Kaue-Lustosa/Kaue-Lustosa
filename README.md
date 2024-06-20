@@ -1,8 +1,7 @@
-<img width=100% bottom=50px src="https://github.com/Kaue-Lustosa/Kaue-Lustosa/assets/85201389/f4723dea-e519-4bec-a00a-8e1c1e6a2f73"/>
+<img width=100% bottom=30px src="https://github.com/Kaue-Lustosa/Kaue-Lustosa/assets/85201389/f4723dea-e519-4bec-a00a-8e1c1e6a2f73"/>
 
 </div>
 
-<br>
 <br>
 <br>
 <br> 
@@ -10,20 +9,15 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=300&size=50&duration=4000&pause=1000&color=9bbcbc&center=true&vCenter=true&random=false&width=1000&lines=Hello%2C+my+name+is+Kauê;I'm+21+years+old;I'm+a+Security+Manager;I'm+from+Brazil;Welcome!)](https://git.io/typing-svg)
 
 <br>
-<br>
 
 <div align="center">
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Kaue-Lustosa&theme=github-dark-blue&mode=weekly&card_width=900" alt="GitHub Streak" /></a>
 
 <br>
 <br>
-<br>
-<br>
 
 <img align="center" height="250px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kaue-Lustosa&langs_count=8&theme=dark&hide_border=true&layout=compact">
 
-<br>
-<br>
 <br>
 <br>
 
@@ -44,9 +38,6 @@
 </a>
 
 </div>
-
-<br>
-<br>
 
 <h2 align="left">  Languages: </h2>
 <div align="left"> 
@@ -94,7 +85,6 @@ hobbies: ["Gaming", "Music", "Indoors Climbing", "IoT"]
 <div align="center">
 
 <br>
-<br>
 
 <p align="centre"><b>Visitors Count</b></p> 
   
@@ -102,7 +92,6 @@ hobbies: ["Gaming", "Music", "Indoors Climbing", "IoT"]
 
 </div>
 
-<br>
 <br>
 
 <div align="center">
