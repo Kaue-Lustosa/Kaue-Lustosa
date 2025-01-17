@@ -11,9 +11,6 @@
 <br>
 
 <div align="center">
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Kaue-Lustosa&theme=github-dark-blue&hide_border=true&mode=weekly&card_width=900" alt="GitHub Streak" /></a>
-  
-<br>
 <br>
 
 <img align="center" height="250px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kaue-Lustosa&langs_count=8&theme=dark&hide_border=true&layout=compact">
