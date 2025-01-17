@@ -72,9 +72,9 @@ from: Brasília (Brazil)
 education: ["Finishing my Bachelor's in IT this year"]
 past experiences: 
   - ["Geoprocessing scholar", "Google Earth Engine coding", "Câmara Cascudo's Museum", "Brazil", "2022-2023"]
-fields_of_interests: ["IT Management", "Security of Information", "Cybersecurity", "Internet of Things"]
+fields_of_interests: ["IT Management", "Security of Information", "Cybersecurity", "Internet of Things", "Digital Forensis"]
 technical_background: ["Data Processing", "Project Management"]
-hobbies: ["Gaming", "Music", "Indoors Climbing", "IoT"]
+hobbies: ["Gaming", "Music", "Climbing", "Surfing", "IoT"]
 ```
 <br>
 <br>
