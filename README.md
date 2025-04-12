@@ -69,12 +69,14 @@
 name: Kauê Lustosa Morgado
 located_in: Rio Grande do Norte, Brazil
 from: Brasília (Brazil)
-education: ["Finishing my Bachelor's in IT this year"]
+education: ["Finishing my Bachelor's in IT this semester"]
 past experiences: 
   - ["Geoprocessing scholar", "Google Earth Engine coding", "Câmara Cascudo's Museum", "Brazil", "2022-2023"]
-fields_of_interests: ["IT Management", "Security of Information", "Cybersecurity", "Internet of Things", "Digital Forensis"]
-technical_background: ["Data Processing", "Project Management"]
-hobbies: ["Gaming", "Music", "Climbing", "Surfing", "IoT"]
+  - ["Help Desk suport", "Event Handler", "Ordem dos Advogados do Brasil do Rio Grande do Norte (OAB-RN)", "Brazil", "2024-2025"]
+  - ["Full-Stack DevSecOps", "Front-end programing", "Rede Nacional de Ensino e Pesquisa (RNP)", "Brazil", "2024-2025"]
+fields_of_interests: ["IT Management", "Security of Information", "Cybersecurity", "Internet of Things", "Digital Forensis", "Dev Full-Stack"]
+technical_background: ["Data Processing", "Project Management", "Full-Stack Development", "Help Desk", "Geoprocessing"]
+hobbies: ["Gaming", "Music", "Climbing", "Surfing"]
 ```
 <br>
 <br>
