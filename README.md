@@ -74,7 +74,7 @@ past experiences:
   - ["Geoprocessing scholar", "Google Earth Engine coding", "Câmara Cascudo's Museum", "Brazil", "2022-2023"]
   - ["Help Desk suport", "Event Handler", "Ordem dos Advogados do Brasil (OAB-RN)", "Brazil", "2024-2025"]
   - ["Full-Stack DevSecOps", "Front-end programing", "Rede Nacional de Ensino e Pesquisa (RNP)", "Brazil", "2024-2025"]
-fields_of_interests: ["IT Management", "Security of Information", "Cybersecurity", "Internet of Things", "Digital Forensis", "Dev Full-Stack"]
+fields_of_interests: ["IT Management", "Cybersecurity", "Internet of Things", "Digital Forensis", "Dev Full-Stack"]
 technical_background: ["Data Processing", "Project Management", "Full-Stack Development", "Help Desk", "Geoprocessing"]
 hobbies: ["Gaming", "Music", "Climbing", "Surfing"]
 ```
