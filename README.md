@@ -6,7 +6,7 @@
 <br>
 <br> 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=300&size=50&duration=4000&pause=1000&color=9bbcbc&center=true&vCenter=true&random=false&width=1000&lines=Hello%2C+my+name+is+Kauê;I'm+21+years+old;I'm+a+Foresis+Researcher;I'm+from+Brazil;Welcome!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=300&size=50&duration=4000&pause=1000&color=9bbcbc&center=true&vCenter=true&random=false&width=1000&lines=Hello%2C+my+name+is+Kauê;I'm+22+years+old;I'm+a+Front+End+Dev;I'm+from+Brazil;Welcome!)](https://git.io/typing-svg)
 
 <br>
 
@@ -84,8 +84,6 @@ hobbies: ["Gaming", "Music", "Climbing", "Surfing"]
 <div align="center">
 
 <br>
-
-<p align="centre"><b>Visitors Count</b></p> 
   
 <p align="center"><img src="https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2FKaue-Lustosa&s=50&c=7d968b&bg=00000000&no=4&ff=alien&tb=Visits%3A++&ta=" alt="visits"></p> 
 
